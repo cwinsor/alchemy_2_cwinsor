@@ -201,11 +201,6 @@ void TestFormulaInfer::readGroundTruth(int id,vector<vector<vector<int> > >& tru
 	filename.append(st);
 	filename.append(".txt");
 	ifstream filestr(filename.c_str());
-	if(filestr == NULL)
-	{
-		cout<<"Error reading Ground Truth File"<<endl;
-		exit(-1);
-	}
 	char* buf = new char[1024];
 	//line 1=size
 	{

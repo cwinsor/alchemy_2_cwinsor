@@ -188,7 +188,8 @@ void LBGSampler::startLVBGibbs(LvrParams* params)
 		vector<vector<int> > mergeIndexList;
 		vector<int> levels;
 		int maxLevel = 0;
-		if(filestr != NULL)
+		// if(filestr != NULL)
+        if(true) // zona
 		{
 			cout<<"Reading current cluster file = "<<params->inClusterFile.c_str()<<endl;
 			clustersRead = true;
