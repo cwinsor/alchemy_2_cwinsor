@@ -508,7 +508,11 @@ void LvrQueryUpdater::updateGibbsDontCareRB()
 	{
 		if(!values[i])
 		{
-			rbestimates->incrementValue(keys[i],&(LogDouble(0.5,false)));
+            // zona
+            cout << "ERROR - non-compiling code commented out queryupdater.cpp line 512" << endl;
+            cout << std::flush;
+            exit(1);
+			// zona rbestimates->incrementValue(keys[i],&(LogDouble(0.5,false)));
 		}
 		lvrAtomHashUpdateFlags->setValue(keys[i],false);
 	}

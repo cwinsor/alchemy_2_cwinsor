@@ -151,11 +151,6 @@ struct LFileDump
 	static void readDumpedclausesFromFile(vector<WClause*>& clauses,string clausesdumpfile = CLAUSESDUMPFILE)
 	{
 		fstream filestr(clausesdumpfile.c_str());
-		if(filestr == NULL)
-		{
-			cout<<"Error reading LvrMLN File"<<endl;
-			exit(-1);
-		}
 		//char* buf = new char[1024];
 		while(filestr)
 		{
@@ -277,11 +272,6 @@ struct LFileDump
 	static void readQueriesFromFile(vector<vector<int> >& intRep,string queriesdumpfile = QUERIESDUMPFILENAME )
 	{
 		fstream filestr(queriesdumpfile.c_str());
-		if(filestr == NULL)
-		{
-			cout<<"Error reading LvrMLN File"<<endl;
-			exit(-1);
-		}
 		char* buf = new char[1024];
 		while(filestr)
 		{
@@ -316,11 +306,6 @@ struct LFileDump
 	static void readEvidenceFromFile(vector<vector<int> >& intRep,string evidencedumpfile = EVIDENCEDUMPFILENAME)
 	{
 		fstream filestr(evidencedumpfile.c_str());
-		if(filestr == NULL)
-		{
-			cout<<"Error reading LvrMLN File"<<endl;
-			exit(-1);
-		}
 		char* buf = new char[1024];
 		while(filestr)
 		{
@@ -356,11 +341,6 @@ struct LFileDump
 	static void readDumpedMLNFromFile(LvrMLN& mln,string mlndumpfile = MLNDUMPFILENAME)
 	{
 		fstream filestr(mlndumpfile.c_str());
-		if(filestr == NULL)
-		{
-			cout<<"Error reading LvrMLN File"<<endl;
-			exit(-1);
-		}
 		//char* buf = new char[1024];
 		while(filestr)
 		{
@@ -466,11 +446,6 @@ struct LFileDump
 	static void readDumpedSymbolsFromFile(LvrMLN& mln,string symbolsdumpfile=SYMBOLSDUMPFILENAME)
 	{
 		fstream filestr(symbolsdumpfile.c_str());
-		if(filestr == NULL)
-		{
-			cout<<"Error reading LvrMLN File"<<endl;
-			exit(-1);
-		}
 		char* buf = new char[1024];
 		filestr.getline(buf,1024);
 		string line0(buf);
@@ -560,11 +535,6 @@ struct LFileDump
 	static void readDumpedProposalFile(vector<Atom*>& atoms,vector<vector<Atom*> >& parents, vector<int>& ids,string proposaldumpfile=PROPOSALDUMPFILENAME)
 	{
 		fstream filestr(proposaldumpfile.c_str());
-		if(filestr == NULL)
-		{
-			cout<<"Error reading LvrMLN File"<<endl;
-			exit(-1);
-		}
 		char* buf = new char[1024];
 		while(filestr)
 		{
@@ -612,11 +582,6 @@ struct LFileDump
 	static void readDumpedProposalIsolatedTermsFile(vector<vector<bool> >& isolatedTerms,string proposaldumpfile=PROPOSALISOLATEDTERMSDUMPFILE)
 	{
 		fstream filestr(proposaldumpfile.c_str());
-		if(filestr == NULL)
-		{
-			cout<<"Error reading LvrMLN File"<<endl;
-			exit(-1);
-		}
 		char* buf = new char[1024];
 		while(filestr)
 		{
