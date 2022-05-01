@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/src
+END
+logdouble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/src/logdouble.cpp
+END
+lvrptpsearchtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/liftedinfer/common/src/lvrptpsearchtree.cpp
+END
+fileutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/src/fileutils.cpp
+END
+decomposer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/src/decomposer.cpp
+END
+samplingalgs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/src/samplingalgs.cpp
+END
+setutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/src/setutils.h
+END
+lvrptptreesampling.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/src/lvrptptreesampling.cpp
+END
+normalizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/src/normalizer.cpp
+END
+heuristics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/src/heuristics.cpp
+END
+propositionalresolution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/src/propositionalresolution.cpp
+END
+randomgenutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/src/randomgenutil.cpp
+END
+queryupdater.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/src/queryupdater.cpp
+END
+mathutils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5/trunk/src/liftedinfer/common/src/mathutils.cpp
+END
+lvrmln.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/src/lvrmln.cpp
+END

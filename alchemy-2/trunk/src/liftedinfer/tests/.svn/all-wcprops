@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests
+END
+testformulainfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests/testformulainfer.cpp
+END
+testmodelcount.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests/testmodelcount.cpp
+END
+parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests/parser.cpp
+END
+runtestsmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests/runtestsmain.cpp
+END
+testformulainfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests/testformulainfer.h
+END
+testmodelcount.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests/testmodelcount.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/liftedinfer/tests/parser.h
+END

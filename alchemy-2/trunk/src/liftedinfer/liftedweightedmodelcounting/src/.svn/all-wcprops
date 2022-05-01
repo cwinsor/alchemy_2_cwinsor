@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5/trunk/src/liftedinfer/liftedweightedmodelcounting/src
+END
+ptpsearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5/trunk/src/liftedinfer/liftedweightedmodelcounting/src/ptpsearch.cpp
+END
+extensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/src/extensions.cpp
+END
+resolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/src/resolver.cpp
+END
+unifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/src/unifier.cpp
+END
+sampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/src/sampler.cpp
+END
+cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/src/cache.cpp
+END
+wmconvertor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/src/wmconvertor.cpp
+END
+splitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/src/splitter.cpp
+END

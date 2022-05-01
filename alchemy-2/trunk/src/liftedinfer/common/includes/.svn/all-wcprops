@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes
+END
+lvrpermutations.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/lvrpermutations.h
+END
+clusterutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/clusterutil.h
+END
+samplingalgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/samplingalgs.h
+END
+normalizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/normalizer.h
+END
+heuristics.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/heuristics.h
+END
+ptptree.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/ptptree.h
+END
+lvratomhashtemplate.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/lvratomhashtemplate.h
+END
+lvparams.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/lvparams.h
+END
+normpreservinggrounder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/normpreservinggrounder.h
+END
+lvrsingletonnormpropagation.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/lvrsingletonnormpropagation.h
+END
+propositionalresolution.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/propositionalresolution.h
+END
+rulesutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/rulesutil.h
+END
+hashalgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/src/liftedinfer/common/includes/hashalgorithm.h
+END
+queryupdater.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/queryupdater.h
+END
+paramconstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/paramconstants.h
+END
+stringconversionutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/stringconversionutils.h
+END
+lvrptpsearchtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/lvrptpsearchtree.h
+END
+fileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/fileutils.h
+END
+decomposer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/decomposer.h
+END
+lvrptptreesampling.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6/trunk/src/liftedinfer/common/includes/lvrptptreesampling.h
+END
+lvrnormpropagation.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/src/liftedinfer/common/includes/lvrnormpropagation.h
+END
+filedump.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/src/liftedinfer/common/includes/filedump.h
+END
+randomgenutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/randomgenutil.h
+END
+cleanuputils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/cleanuputils.h
+END
+lvrmln.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/lvrmln.h
+END
+mathutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/mathutils.h
+END
+logdouble.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/src/liftedinfer/common/includes/logdouble.h
+END

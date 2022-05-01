@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/src/liftedinfer/liftedweightedmodelcounting/includes
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/cache.h
+END
+sampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/sampler.h
+END
+wmconvertor.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/wmconvertor.h
+END
+splitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/splitter.h
+END
+ptpsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/ptpsearch.h
+END
+extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/extensions.h
+END
+unifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/unifier.h
+END
+resolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedweightedmodelcounting/includes/resolver.h
+END

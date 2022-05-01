@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/src
+END
+lvrcluster.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/src/lvrcluster.cpp
+END
+ptpsampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/src/ptpsampler.cpp
+END
+lbgsampler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/src/lbgsampler.cpp
+END
+blockexactinference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/src/blockexactinference.cpp
+END
+clustercreator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/src/clustercreator.cpp
+END

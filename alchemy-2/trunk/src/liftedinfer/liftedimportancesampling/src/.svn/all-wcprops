@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/src/liftedinfer/liftedimportancesampling/src
+END
+proposalstructure.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedimportancesampling/src/proposalstructure.cpp
+END
+lisapproxinference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedimportancesampling/src/lisapproxinference.cpp
+END
+lvgrbestimator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/src/liftedinfer/liftedimportancesampling/src/lvgrbestimator.cpp
+END
+proposalconstructor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedimportancesampling/src/proposalconstructor.cpp
+END

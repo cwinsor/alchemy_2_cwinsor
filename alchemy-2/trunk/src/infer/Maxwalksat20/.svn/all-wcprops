@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/infer/Maxwalksat20
+END
+README.maxwalksat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/infer/Maxwalksat20/README.maxwalksat
+END
+maxwalksat.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/infer/Maxwalksat20/maxwalksat.c
+END

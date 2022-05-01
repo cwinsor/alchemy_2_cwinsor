@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/includes
+END
+lvrcluster.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedblockedgibbs/includes/lvrcluster.h
+END
+ptpsampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/includes/ptpsampler.h
+END
+lbgsampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedblockedgibbs/includes/lbgsampler.h
+END
+blockexactinference.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6/trunk/src/liftedinfer/liftedblockedgibbs/includes/blockexactinference.h
+END
+clustercreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedblockedgibbs/includes/clustercreator.h
+END
+gibbsprocesshandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/liftedinfer/liftedblockedgibbs/includes/gibbsprocesshandler.h
+END
